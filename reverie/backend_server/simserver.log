@@ -1,0 +1,4 @@
+Enter the name of the forked simulation: Traceback (most recent call last):
+  File "/mnt/d/home/generative_agents/reverie/backend_server/reverie.py", line 608, in <module>
+    origin = input("Enter the name of the forked simulation: ").strip()
+OSError: [Errno 9] Bad file descriptor

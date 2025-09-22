@@ -13,7 +13,7 @@ from transformers import BartTokenizer, BartForConditionalGeneration
 
 
 # from utils import *
-openai_api_key = "AIzaSyDfTck-4MGWehBhFhRRC3sVUYWuAI7sJ6I"
+openai_api_key = 
 
 tokenizer = BartTokenizer.from_pretrained('facebook/bart-large')
 bart = BartForConditionalGeneration.from_pretrained('facebook/bart-large')
